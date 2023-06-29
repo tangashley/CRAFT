@@ -1,0 +1,4 @@
+id,dep_stn,arr_stn,ac_code,dep_date,weather,hobbs_meter,year_man,dep_country,arr_country
+1,JKF,STL,111,1/15/22 11:32,sunny,111,1,USA,USA
+2,ABC,CBA,222,10/16/22 11:32,,222,2,USA,CHN
+3,EFG,GFE,333,10/17/22 11:32,cloudy,333,3,BRI,USA
